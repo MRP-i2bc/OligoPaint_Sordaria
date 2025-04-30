@@ -1,0 +1,58 @@
+==================================================
+file name: WT_J2.fasta              
+sequences:             7
+total length:   39257403 bp  (39257403 bp excl N/X-runs)
+GC level:         52.06 %
+bases masked:    2906436 bp ( 7.40 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1594       942823 bp    2.40 %
+   SINEs:              670       184815 bp    0.47 %
+   Penelope:             0            0 bp    0.00 %
+   LINEs:              542       361127 bp    0.92 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     404       298218 bp    0.76 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       382       396881 bp    1.01 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia         146       171787 bp    0.44 %
+     Gypsy/DIRS1       236       225094 bp    0.57 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons          0            0 bp    0.00 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR             0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles         31         3120 bp    0.01 %
+
+Unclassified:         3759      1179563 bp    3.00 %
+
+Total interspersed repeats:     2122386 bp    5.41 %
+
+
+Small RNA:             193        84822 bp    0.22 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      14762       610592 bp    1.56 %
+Low complexity:       1760        92445 bp    0.24 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+                                                                                  
+run with rmblastn version 2.14.1+
+The query was compared to classified sequences in ".../consensus_sequences.fasta"
+FamDB: 
